@@ -1,5 +1,5 @@
 require 'discordrb'
-require 'routes/config.rb'
+require 'config.rb'
 
 bot = Discordrb::Bot.new token: 'token', client_id: 523637595973091331
 
